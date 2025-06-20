@@ -19,5 +19,5 @@ Below are example screenshots of the web interface showcasing image upload, heat
 ![Web App Screenshot 1](images/images/ex1.png)  
 ![Web App Screenshot 2](images/images/ex2.png)  
 ![Web App Screenshot 3](images/images/ex3.png)  
-![Web App Screenshot 4](images/images/ex4.png)  
-![Web App Screenshot 5](images/images/ex5.png)  
+![Web App Screenshot 4](images/images/ex5.png)  
+![Web App Screenshot 5](images/images/ex4.png)  
