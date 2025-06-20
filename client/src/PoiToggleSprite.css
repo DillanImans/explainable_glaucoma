@@ -1,0 +1,6 @@
+.poi-toggle-sprite {
+  cursor: pointer;
+  overflow: hidden;                
+  transition: background-position 0s ease;
+  background-color: transparent;
+}
